@@ -1,0 +1,8 @@
+23.40.252.158    assets.nflxext.com
+69.172.200.241   ir.netflix.com
+54.192.13.23     media.netflix.com
+54.191.94.148    www.netflix.com
+34.211.85.116    help.netflix.com
+34.210.61.133    jobs.netflix.com
+23.40.252.158    codex.nflxext.com
+52.30.128.237    netflix.com
